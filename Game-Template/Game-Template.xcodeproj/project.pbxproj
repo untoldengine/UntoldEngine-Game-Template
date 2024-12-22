@@ -64,18 +64,26 @@
 		032E91A12D17188D003CCBD9 /* Game-Template */ = {
 			isa = PBXGroup;
 			children = (
-				032E91D52D178F09003CCBD9 /* runninganim.usdc */,
-				032E91D72D186040003CCBD9 /* ball.usdc */,
-				032E91D92D186A8C003CCBD9 /* idleanim.usdc */,
-				032E91CF2D17778E003CCBD9 /* redshirtplayer.usdc */,
-				032E91CB2D17221B003CCBD9 /* stadium.usdc */,
-				032E91CC2D17221B003CCBD9 /* textures */,
+				032E91E52D187324003CCBD9 /* Resources */,
 				032E91A22D17188D003CCBD9 /* AppDelegate.swift */,
 				032E91AB2D171892003CCBD9 /* Assets.xcassets */,
 				032E91AD2D171892003CCBD9 /* Main.storyboard */,
 				032E91B02D171892003CCBD9 /* Game_Template.entitlements */,
 			);
 			path = "Game-Template";
+			sourceTree = "<group>";
+		};
+		032E91E52D187324003CCBD9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				032E91D52D178F09003CCBD9 /* runninganim.usdc */,
+				032E91D72D186040003CCBD9 /* ball.usdc */,
+				032E91D92D186A8C003CCBD9 /* idleanim.usdc */,
+				032E91CF2D17778E003CCBD9 /* redshirtplayer.usdc */,
+				032E91CB2D17221B003CCBD9 /* stadium.usdc */,
+				032E91CC2D17221B003CCBD9 /* textures */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
