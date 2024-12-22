@@ -4,7 +4,7 @@ This template demonstrates how to create a simple macOS game using the [Untold E
 
 If you want to create your own project, follow these [steps](https://github.com/untoldengine/UntoldEngine/blob/master/docs/CreateMacOSGame.md)
 
-[gamescreenshot](images/gamescreenshot.png)
+[gamescreenshot](../images/gamescreenshot.png)
 
 ## Features Demonstrated
 
