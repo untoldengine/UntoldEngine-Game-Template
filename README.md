@@ -1,6 +1,10 @@
 # Untold Engine macOS Game Template
 
-This template demonstrates how to create a simple macOS game using the Untold Engine. The scene includes a stadium, a player, and a ball, showcasing the use of the rendering, animation, and physics systems.
+This template demonstrates how to create a simple macOS game using the [Untold Engine](https://github.com/untoldengine/UntoldEngine). The scene includes a stadium, a player, and a ball, showcasing the use of the rendering, animation, and physics systems.
+
+If you want to create your own project, follow these [steps](https://github.com/untoldengine/UntoldEngine/blob/master/docs/CreateMacOSGame.md)
+
+[gamescreenshot](../images/gamescreenshot.png)
 
 ## Features Demonstrated
 
@@ -50,4 +54,4 @@ This template demonstrates how to create a simple macOS game using the Untold En
 
 ## Support
 
-- If you encounter issues, feel free to open a GitHub Issue.
+- If you encounter issues, feel free to [open an issue](https://github.com/untoldengine/UntoldEngine/issues)
