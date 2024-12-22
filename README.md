@@ -48,9 +48,10 @@ If you want to create your own project, follow these [steps](https://github.com/
 
 ## Next Steps
 
-- Replace the models with your own .usdc assets.
+- Replace the models with your own .usdc assets. See this guide to [import assets for your game](https://github.com/untoldengine/UntoldEngine/blob/master/docs/ImportingAssetFiles.md)
 - Customize animations, physics, and interactions to build your game.
 - Explore the Untold Engine Documentation for more advanced features.
+
 
 ## Support
 
